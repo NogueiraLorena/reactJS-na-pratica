@@ -1,0 +1,10 @@
+.funcionarioconteiner {
+  height: 70vh;
+  width: 53vw;
+  border-bottom: solid 1.5px black;
+  margin-bottom: 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}

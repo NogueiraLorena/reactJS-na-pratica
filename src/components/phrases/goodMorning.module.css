@@ -1,0 +1,10 @@
+.goodMorninContent {
+  height: 13vh;
+  width: 20vw;
+  background-color: rgb(221, 221, 221);
+  font-family: fantasy;
+  color: #3b1616;
+
+  margin-left: 1em;
+  display: inline-block;
+}
